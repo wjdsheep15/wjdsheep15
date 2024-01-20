@@ -9,20 +9,20 @@
 </div>
 
 
-<div>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=wjdsheep15&theme=dark&show_icons=true" width="50%" />
-</a>
+<div align=center>
+    <a href="s">
+      <img src="https://github-readme-stats.vercel.app/api?username=wjdsheep15&theme=dark&show_icons=true" width="60%" />
+    </a>
 </div>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdsheep15&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="40%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdsheep15&theme=github_dark" width="37%"/>
-</a>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wjdsheep15&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-
+<div align=center>
+    <a href="s">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdsheep15&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="40%" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdsheep15&theme=github_dark" width="37%"/>
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=wjdsheep15&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    </a>
+</div>
 
 
 ***
