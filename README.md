@@ -10,9 +10,8 @@
 
 
 <div align=center>
-    <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api?username=wjdsheep15&theme=dark&show_icons=true" width="60%" />
-    </a>
+  
+   <img src="https://github-readme-stats.vercel.app/api?username=wjdsheep15&hide=contribs,prs&show_icons=true&theme=dark"/>
 </div>
 <div align=center>
     <a href="s">
