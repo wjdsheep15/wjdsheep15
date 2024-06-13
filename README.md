@@ -41,7 +41,8 @@
      <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij&logoColor=white">
      <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 
-
+<h2>✨ Velog ✨</h2>
+https://velog.io/@wjd15sheep/posts
 </div>
     
 <dr></dr>
