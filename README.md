@@ -15,7 +15,7 @@
 </div>
 <div align=center>
     <a href="s">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdsheep15&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="40%" />
+<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdsheep15&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="40%" /> -->
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdsheep15&theme=github_dark" width="37%"/>
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
