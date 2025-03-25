@@ -14,7 +14,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wjd15sheep})](https://solved.ac/{wjd15sheep})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd15sheep)](https://solved.ac/wjd15sheep)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdsheep15&theme=github_dark" width="37%"/>
 
 
