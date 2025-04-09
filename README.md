@@ -3,6 +3,8 @@
 
 # 👋 Welcome to Seung's GitHub!
 
+
+
 ## ✨ About Me  
 
 **끊임없이 배우고 성장하는 백엔드 개발자**
@@ -13,6 +15,30 @@
 💬 “문제 해결을 즐기고, 책임감을 행동으로 증명하는 개발자입니다.”
 
 ---
+
+## 🧭 GitHub Stats
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://solved.ac/wjd15sheep">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd15sheep" />
+      </a>
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=wjdsheep15&hide=contribs,prs&show_icons=true&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdsheep15&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 
 ## 🔥 Representative Projects
 
@@ -36,16 +62,6 @@
 - 자발적으로 후속 기수 온보딩 멘토 활동  
 - 요구사항 달성률 94%로 프로젝트 성공적으로 마무리
 
----
-
-## 🧭 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjdsheep15&hide=contribs,prs&show_icons=true&theme=dark)
-![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdsheep15&theme=github_dark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd15sheep)](https://solved.ac/wjd15sheep)
-
----
 
 ## 💻 Tech Stack
 
