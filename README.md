@@ -51,6 +51,7 @@
 - 실서비스 운영 및 사용자 피드백 기반 기능 개선  
 
 🔗 [서비스 바로가기](https://star-breaker-raid.vercel.app/)
+🔗 [코드 바로가기](https://github.com/wjdsheep15/Star-Breaker-Raid)
 
 ---
 
@@ -62,6 +63,17 @@
 - 자발적으로 후속 기수 온보딩 멘토 활동  
 - 요구사항 달성률 94%로 프로젝트 성공적으로 마무리
 
+🔗 [백서 바로가기](https://fan-story-cde.notion.site/CSPM-MVP-5cfe99c2ff0d4ae4a479c9b0dfd05c0b?pvs=4)
+
+
+### CSPM-Opensource (공개 SW 개잘자대회)
+***클라우드 보안 취약점 진단 시스템 CSPM 개선형***
+**Stack:** Spring Boot, QueryDSL, MySQL, Spring Security, NextJS, TypeScript
+
+- 기획사 및 테크 리터로서 핵심 로직 설계 및 구현
+- Spring Security로 JWT 토큰 기반 유저 인가 및 세션 관리
+- 프론트 리더, 로그인, 홈 페이지 구현
+🔗 [코드 바로가기](https://github.com/stars/wjdsheep15/lists/cspm-opensource)
 
 ## 💻 Tech Stack
 
