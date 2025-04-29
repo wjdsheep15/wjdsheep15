@@ -66,13 +66,15 @@
 🔗 [백서 바로가기](https://fan-story-cde.notion.site/CSPM-MVP-5cfe99c2ff0d4ae4a479c9b0dfd05c0b?pvs=4)
 
 
-### CSPM-Opensource (공개 SW 개잘자대회)
+### 🖥️ CSPM-Opensource (공개 SW 개발자 대회)
 ***클라우드 보안 취약점 진단 시스템 CSPM 개선형***
 **Stack:** Spring Boot, QueryDSL, MySQL, Spring Security, NextJS, TypeScript
 
 - 기획사 및 테크 리터로서 핵심 로직 설계 및 구현
 - Spring Security로 JWT 토큰 기반 유저 인가 및 세션 관리
 - 프론트 리더, 로그인, 홈 페이지 구현
+
+  
 🔗 [코드 바로가기](https://github.com/stars/wjdsheep15/lists/cspm-opensource)
 
 ## 💻 Tech Stack
